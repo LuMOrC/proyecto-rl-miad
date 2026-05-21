@@ -1,6 +1,13 @@
-# Proyecto Aplicado de Analítica de Datos - OilSense ML
+# Proyecto Aplicado de Reinforce Learning - Ambiente de dos habitaciones
 
-Este repositorio contiene notebooks y código para análisis de datos y desarrollo de modelos de machine learning para la generación de un modelo de clasificación y analisis de resultados de muestras de aceite usado de motores de maquinaría pesada para minería.
+Este repositorio contiene un notebook de jupyter y algunos archivos de soporte donde se implementa, entrena y evalúa un agente de Q-learning para resolver el problema de navegación en un ambiente de dos habitaciones separadas por una puerta con llave, tal como se propuso en la definición y descripción del proyecto final del curso en la semana 1 de Coursera.
+
+El agente debe completar una secuencia de subtareas:
+
+1. Recoger la bola que bloquea la puerta  
+2. Recoger la llave azul  
+3. Abrir la puerta usando la llave  
+4. Navegar hasta la casilla de salida en la habitación derecha  
 
 ---
 
